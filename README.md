@@ -15,5 +15,4 @@ The project involves preprocessing the image data, building a neural network mod
 - Seaborn
 
 ## Dataset
-The FER2013 dataset is used for training and testing the mood detection model. It contains images of faces annotated with one of seven emotions. The dataset is divided into training and testing sets, and the preprocessing includes resizing images to 48x48 pixels, normalizing pixel values to the range [0, 1], and one-hot encoding the categorical labels.
-
+The dataset used for this project is the FER2013 dataset - https://www.kaggle.com/datasets/msambare/fer2013.
